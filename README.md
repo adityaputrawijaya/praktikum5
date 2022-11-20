@@ -1,1 +1,1 @@
- # praktikum 
+print 
